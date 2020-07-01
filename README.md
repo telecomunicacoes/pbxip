@@ -15,6 +15,7 @@ Veja -Link- para detalhes.
 * Deixar recado no correio de voz
 
 
-# Manual do Usuário
-
+# Manual do Usuário <br>
+https://github.com/telecomunicacoes/pbxip/wiki/Documenta%C3%A7%C3%A3o
+<br>
 # FAQ
