@@ -3,9 +3,9 @@ SICO (Sistema Integrado de Comunicação)
 
 # O que é?
 A ferramenta PBXIP é uma das soluções presentes no SICO, como parte do conjunto de ferramentas para o setor administrativo. 
-Esse guia tem como objetivo orientar sobre o uso dos recursos disponíveis no serviço de telefonia. 
+Esse guia tem como objetivo orientar sobre o uso dos recursos disponíveis no serviço de telefonia. <br>
 
-Veja -Link- para detalhes.
+Veja https://setup.inova.in/ses/pbxip/STABLE.htm para detalhes e download.
 
 # Recursos PBXIP
 
