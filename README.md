@@ -22,4 +22,4 @@ https://github.com/telecomunicacoes/pbxip/wiki/Documenta%C3%A7%C3%A3o
 <br>
 
 # FAQ
-Link com perguntas frequentes disponível em 
+Link com perguntas frequentes disponível em: https://github.com/telecomunicacoes/pbxip/wiki/FAQ
