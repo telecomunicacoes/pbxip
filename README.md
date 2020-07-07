@@ -1,6 +1,6 @@
 # SICO PBXIP
-SICO (Sistema Integrado de Comunicação)<br>
-Private Automatic Branch Exchange (troca automática de ramais privados)
+SICO - Sistema Integrado de Comunicação<br>
+PBXIP - Private Automatic Branch Exchange Internet Protocol (troca automática de ramais privados usando protocolo de internet)
 
 # O que é?
 
