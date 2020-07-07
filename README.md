@@ -20,4 +20,6 @@ Veja https://setup.inova.in/ses/pbxip/STABLE.htm para detalhes e download.
 # Manual do Usuário <br>
 https://github.com/telecomunicacoes/pbxip/wiki/Documenta%C3%A7%C3%A3o
 <br>
+
 # FAQ
+Link com perguntas frequentes disponível em 
